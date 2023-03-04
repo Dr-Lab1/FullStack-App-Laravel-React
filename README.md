@@ -1,6 +1,1 @@
 # FullStack-App-Laravel-React
-
-
-
-
-.
